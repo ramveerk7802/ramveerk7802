@@ -59,7 +59,8 @@ I'm a Java Backend and Android Developer passionate about building clean, scalab
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ramveerk7802&show_icons=true&theme=github_dark&hide_border=false" height="180" alt="github stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramveerk7802&theme=github-dark&hide_border=false" height="180" alt="github streak" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramveerk7802&theme=github-dark&hide_border=false" height="180" alt="github streak" /> -->
+  <img src="https://streak-stats.demolab.com/?user=ramveerk7802&theme=github_dark&hide_border=false" height="180" alt="github streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramveerk7802&layout=compact&theme=github_dark&hide_border=false" height="150" alt="top languages" />
 </div>
